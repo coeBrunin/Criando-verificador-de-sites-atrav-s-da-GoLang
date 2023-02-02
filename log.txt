@@ -1,0 +1,6 @@
+02/02/2023 12:31:31 - https://www.alura.com.br - online: true
+02/02/2023 12:31:31 - https://www.caelum.com.br - online: true
+02/02/2023 12:31:32 - https://www.casadocodigo.com.br - online: true
+02/02/2023 12:31:47 - https://www.alura.com.br - online: true
+02/02/2023 12:31:47 - https://www.caelum.com.br - online: true
+02/02/2023 12:31:47 - https://www.casadocodigo.com.br - online: true
